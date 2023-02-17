@@ -1,9 +1,6 @@
 // @ts-nocheck
 // JS Code here...
 
-// @ts-nocheck
-// JS Code here...
-
 const submitButton = document.getElementById("submitButton");
 const productId = document.getElementById("product-id");
 const productName = document.getElementById("product-name");
